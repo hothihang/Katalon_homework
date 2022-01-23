@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_07_Verify that the phone number is not blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e229b609-b38c-46af-acb5-72b87ecdc36b</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>71521d25-85ac-4770-aee6-b78cf22def9e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hằng Hồ'</defaultValue>
+      <description></description>
+      <id>f5675c88-57e1-4512-9791-2997e2abc6f1</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'hangklht@gmail.com'</defaultValue>
+      <description></description>
+      <id>a2e597df-afea-4334-8ddb-ca1fd3768a00</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

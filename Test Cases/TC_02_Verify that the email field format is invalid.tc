@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Verify that the email field format is invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>556b0e25-6419-483f-a5ec-6532fc497b29</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>b9158b9f-bfac-43c1-9023-2a57dc9e3117</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'hangne@gmail.com'</defaultValue>
+      <description></description>
+      <id>a02629a1-0db1-4a53-a2ae-10903f15416b</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0312345678'</defaultValue>
+      <description></description>
+      <id>39e95a37-017e-4a79-9fcc-88dcf9441c7d</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hằng Hồ'</defaultValue>
+      <description></description>
+      <id>ef10b3cf-8225-48bd-b9d1-3343a79aeefd</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+</TestCaseEntity>

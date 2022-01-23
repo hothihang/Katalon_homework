@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Verify that the first and last name consists of only letters (uppercase,lowercase) and at least two separate words</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0850d3cd-5976-4e56-8d2a-2d7d8a755e92</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>ef146fb5-255c-4c26-a867-600b16067183</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'hangho'</defaultValue>
+      <description></description>
+      <id>9cec46d9-15d7-418c-baee-2d9439747a6f</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'ales@gmail.com'</defaultValue>
+      <description></description>
+      <id>33f4b349-d683-4564-9330-daa2ae199357</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0398761233'</defaultValue>
+      <description></description>
+      <id>5c1f092a-e585-4a9e-9365-d2e1aa93a4a7</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

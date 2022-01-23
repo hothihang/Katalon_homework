@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_10_Verify that the email address is already in use</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de29a51e-7bd5-483f-b97e-5f132463c97c</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>9d92bfc0-26bb-4264-994a-afcf9029fcef</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hằng hô'</defaultValue>
+      <description></description>
+      <id>2d8fd96d-0bcc-47f7-8367-c0ca41449d5b</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'hangne@gmail.com'</defaultValue>
+      <description></description>
+      <id>e47df003-b050-498c-bc9c-440b915e800d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0399860645'</defaultValue>
+      <description></description>
+      <id>a0e670d5-9eec-4d50-b710-17377f7dfbef</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

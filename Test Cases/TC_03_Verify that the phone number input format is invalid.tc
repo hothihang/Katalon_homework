@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Verify that the phone number input format is invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>880d811a-395e-45b6-b629-b86e386eaf81</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>3c58c096-90fe-4d0d-9484-da67bf323c96</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hằng Hồ'</defaultValue>
+      <description></description>
+      <id>9cfd4839-5b08-4c98-8530-027e686dc3b6</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'abcdz@gmail.com'</defaultValue>
+      <description></description>
+      <id>a454c6f5-f944-4d5a-a9dc-b46c71c3be22</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'09232243234325'</defaultValue>
+      <description></description>
+      <id>8f58944e-f6e4-454f-a63b-c9e2104ae98d</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

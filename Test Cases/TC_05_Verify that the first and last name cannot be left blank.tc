@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05_Verify that the first and last name cannot be left blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c80c8ab7-59e4-4f23-bf6b-1fe9acdbebc8</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>c24c2001-aee2-4088-96c0-5e95123fef1f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed4268ee-703b-455b-9675-2dc9e7945049</id>
+      <masked>false</masked>
+      <name>fullname</name>
+   </variable>
+   <variable>
+      <defaultValue>'hangcvbn@gmail.com'</defaultValue>
+      <description></description>
+      <id>cf5f80f1-4af3-460c-9a07-48536ce830ef</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0344567321'</defaultValue>
+      <description></description>
+      <id>f90186b2-162e-4f6a-9991-3a163763b59a</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>
